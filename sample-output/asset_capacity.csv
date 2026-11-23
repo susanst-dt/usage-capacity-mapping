@@ -1,0 +1,9 @@
+metric,tier,hours,i-0903851c2c88c9a9c,i-06251282cf2892cc7,i-0aca1f4383153c2c5,i-05a63dbbf2d166bb1
+CPU,Quiet (0-100 users),1,26.8,52.7,78.1,27.2
+CPU,Moderate (101-200 users),0,,,,
+CPU,Busy (201-300 users),0,,,,
+CPU,Peak (301+ users),252,27.8,53.1,77.2,16.8
+RAM,Quiet (0-100 users),1,40.6,56.8,51.8,40.9
+RAM,Moderate (101-200 users),0,,,,
+RAM,Busy (201-300 users),0,,,,
+RAM,Peak (301+ users),252,42.0,55.4,50.8,56.0

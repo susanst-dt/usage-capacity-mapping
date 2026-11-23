@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.DS_Store
+# generated results in the project root (samples live in sample-output/)
+/*.png
+/*.csv

@@ -1,0 +1,6 @@
+tier,hours
+Quiet (0-100 users),1
+Moderate (101-200 users),0
+Busy (201-300 users),3
+Peak (301+ users),741
+Performance test (600 users),0
